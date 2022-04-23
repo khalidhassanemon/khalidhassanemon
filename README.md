@@ -24,7 +24,7 @@ Skills: JS / HTML / CSS/REACT/BOOTSTRAP/PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username= khalidhassanemon&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= khalidhassanemon)  
+![GitHub Activity Graph](https://activity-graph.khalidhassanemon/graph?username= khalidhassanemon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ khalidhassanemon)  
 
