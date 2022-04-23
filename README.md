@@ -1,7 +1,7 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E03AQG-IPJzkio5Ig/profile-displayphoto-shrink_200_200/0/1621149128710?e=1655942400&v=beta&t=e90YQjfXyucOljfh3Z4SKkxBizsyY--jv3mHX35eP0w)
 
 
-### Hi there 👋, I am Khalid Hasan
+### Hi👋, I am Khalid Hasan
 #### Web Developer
 
 Love to learn skill.Trying to be a full stack web developer.A passionate frontend developer.Now I'm doing some mini projects & you can find these in my github repositories.
