@@ -1,16 +1,16 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E03AQG-IPJzkio5Ig/profile-displayphoto-shrink_800_800/0/1621149128710?e=1655942400&v=beta&t=U5x1o5iZjT8YNINZtvjBg9f3pqjbr-N1_BTBX6lYnh8)
 
-### Hi there 👋, my name is Khalid Hasan
-#### Web Developer
+### Hi there 👋,I am Khalid Hasan🙂
+#### Web Developer🧑‍💻
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: REACT / JS / HTML / CSS/PHP
 
-- 🔭 I’m currently working on BUBT IT ClUB 
-- 🌱 I’m currently learning Javascript,React 
-- 👯 I’m looking to collaborate on Github 
+- ✅ I’m currently working on BUBT IT ClUB 
+- ✅ I’m currently learning Javascript,React 
+- ✅ I’m looking to collaborate on Github 
 - 💬 Ask me about Web development 
 
 
