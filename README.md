@@ -4,7 +4,7 @@
 ### Hi👋, I am Khaled Hasan
 #### Web Developer
 
-Love to learn skill.Trying to be a full stack web developer.A passionate frontend developer.Now I'm doing some mini projects & you can find these in my github repositories.
+Love to learn skill.Trying to be a full stack web developer.A passionate frontend developer.Now I'm doing some projects & you can find these in my github repositories.
 
 Skills: JS /PHP/HTML/CSS/REACT/BOOTSTRAP/NodeJs/MongoDB
 
