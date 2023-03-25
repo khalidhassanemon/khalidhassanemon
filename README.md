@@ -8,12 +8,11 @@ Love to learn skill.Trying to be a full stack web developer.A passionate fronten
 
 Skills: JS /PHP/HTML/CSS/REACT/BOOTSTRAP/NodeJs/MongoDB
 
-- 🧑‍💻 I’m currently working on BUBT IT CLUB 
-- ✅ I’m currently learning Javascript,React 
+- ✅ I’m currently learning Javascript,React,NodeJs,NextJS,MongoDB 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: khalidhassanemon12@gmail.com 
-- ⚡ Fun fact: Gaming 
+- ⚡ Fun fact: Web Developing 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ khalidhassanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khaled-hasan-ab230b212//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kh.emon.33)  
