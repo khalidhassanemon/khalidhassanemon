@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidhassanemon&label=Profile%20views&color=0e75b6&style=flat" alt="khalidhassanemon" /> </p>
 
-- 🌱 I’m currently learning **Javascript,React,NodeJs,NextJS,MongoDB**
+- 🌱 I’m currently learning **NodeJs,NextJS,MongoDB**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **[https://www.linkedin.com/in/khaled-hasan12/]**
 
