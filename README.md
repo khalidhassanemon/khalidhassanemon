@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[https://www.linkedin.com/in/khaled-hasan12/]**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nfk6SoTohtWPXnb7cQvGmoCYpz3mN1Og/view?usp=sharing">CV</a>
+- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1nfk6SoTohtWPXnb7cQvGmoCYpz3mN1Og/view?usp=sharing">CV</a>
 
 - ⚡ Fun fact **Web Development**
 
