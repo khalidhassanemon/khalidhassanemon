@@ -1,4 +1,4 @@
-![MasterHead](https://motionarray.imgix.net/preview-77285-hpKHOtuppH_0010.jpg?w=660&q=60&fit=max&auto=format)
+![MasterHead](https://img.freepik.com/free-vector/web-development-banner-computer-with-window-computer-with-browser-window_80328-118.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Khaled Hasan</h1>
 <h3 align="center">I'm a Junior Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
