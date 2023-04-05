@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8a4HO0S9zpIxD0pdER5LuKOD57WpX9aWfWw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Khaled Hasan</h1>
 <h3 align="center">I'm a Junior Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
