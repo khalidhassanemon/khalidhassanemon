@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/html-container-section-banner-programming-language-webpage-developing-web-coding-background-245557267.jpg)
 <h1 align="center">Hi 👋, I'm Khaled Hasan</h1>
 <h3 align="center">I'm a Junior Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
