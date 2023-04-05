@@ -11,7 +11,7 @@ Skills: JS /PHP/HTML/CSS/REACT/BOOTSTRAP/NodeJs/MongoDB
 - ✅ I’m currently learning Javascript,React,NodeJs,NextJS,MongoDB 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: khalidhassanemon12@gmail.com 
+- 📫 How to reach me: [khalidhassanemon12@gmail.com](https://www.linkedin.com/in/khaled-hasan12/) 
 - ⚡ Fun fact: Web Developing 
 
 
